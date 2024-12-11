@@ -1,0 +1,2 @@
+[2024-12-12 00:56:10] ERROR: MySQLServerException [1054]: Unknown column 'deleted_at' in 'where clause'
+[2024-12-12 00:57:22] ERROR: MySQLServerException [1054]: Unknown column 'last_used_at' in 'field list'
